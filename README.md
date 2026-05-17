@@ -44,11 +44,5 @@
 
 이 프로그램은 2차 상속 구조를 사용했습니다.
 
-```text
-Product
-   ▲
-   │
-Drink
-   ▲
-   │
-Soda
+<img width="649" height="596" alt="음료수 자판기 흐름도" src="https://github.com/user-attachments/assets/7e95a288-f942-4356-8eec-df5d51e295d3" />
+
